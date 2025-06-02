@@ -1,0 +1,1644 @@
+2025-03-31 07:31:55 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 07:31:55 - INFO - Assistant ID: 3
+2025-03-31 07:31:55 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 07:35:33 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 07:35:33 - INFO - Assistant ID: 3
+2025-03-31 07:35:33 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 07:39:30 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 07:39:30 - INFO - Assistant ID: 3
+2025-03-31 07:39:30 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 07:45:03 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 07:45:03 - INFO - Assistant ID: 3
+2025-03-31 07:45:03 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 07:45:03 - INFO - === STARTING STREAM ===
+2025-03-31 07:45:03 - INFO - Assistant ID: 3
+2025-03-31 07:45:03 - INFO - === INITIALIZING DEEPGRAM CONNECTION ===
+2025-03-31 07:45:03 - INFO - Created Deepgram connection
+2025-03-31 07:45:03 - INFO - Event handlers registered
+2025-03-31 07:45:04 - INFO - === DEEPGRAM CONNECTION OPENED ===
+2025-03-31 07:45:04 - INFO - Assistant ID: 3
+2025-03-31 07:45:04 - INFO - Deepgram connection started successfully
+2025-03-31 07:45:04 - INFO - Connection confirmed as open
+2025-03-31 07:45:04 - INFO - Stream initialized successfully
+2025-03-31 07:45:04 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:04 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:04 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:04 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:04 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:04 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:04 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:04 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:04 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:04 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:04 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:04 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:04 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:04 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:04 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:04 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:04 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:04 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:04 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:04 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:04 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:04 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:04 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:04 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:04 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:04 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:04 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:04 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:04 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:04 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:04 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:04 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:04 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:04 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:04 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:04 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:04 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:04 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:04 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:04 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:04 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:04 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:04 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:04 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:05 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:05 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:05 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:05 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:05 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:05 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:05 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:05 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:05 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:05 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:05 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:05 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:05 - INFO - === DEEPGRAM TRANSCRIPT RECEIVED ===
+2025-03-31 07:45:05 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:05 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:05 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:05 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:05 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:05 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:05 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:05 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:05 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:05 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:05 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:05 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:05 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:05 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:05 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:05 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:05 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:05 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:05 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:05 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:05 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:05 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:05 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:05 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:05 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:05 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:05 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:05 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:05 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:05 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:05 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:05 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:05 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:05 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:05 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:05 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:06 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:06 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:06 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:06 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:06 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:06 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:06 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:06 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:06 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:06 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:06 - INFO - === DEEPGRAM TRANSCRIPT RECEIVED ===
+2025-03-31 07:45:06 - INFO - About to emit transcript event: text='Ciao', final=False
+2025-03-31 07:45:06 - INFO - Emitted transcript event: 'Ciao', Final: False
+2025-03-31 07:45:06 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:06 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:06 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:06 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:06 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:06 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:06 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:06 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:06 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:06 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:06 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:06 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:06 - INFO - === DEEPGRAM TRANSCRIPT RECEIVED ===
+2025-03-31 07:45:06 - INFO - About to emit transcript event: text='Ciao', final=True
+2025-03-31 07:45:06 - INFO - Reset transcript parts after final message
+2025-03-31 07:45:06 - INFO - Emitted transcript event: 'Ciao', Final: True
+2025-03-31 07:45:06 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:06 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:06 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:06 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:06 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:06 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:06 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:06 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:06 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:06 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:06 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:06 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:06 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:06 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:06 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:06 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:06 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:06 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:06 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:06 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:06 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:06 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:06 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:06 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:07 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:07 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:07 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:07 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:07 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:07 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:07 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:07 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:07 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:07 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:07 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:07 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:07 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:07 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:07 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:07 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:07 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:07 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:07 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:07 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:07 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:07 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:07 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:07 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:07 - INFO - === DEEPGRAM TRANSCRIPT RECEIVED ===
+2025-03-31 07:45:07 - INFO - About to emit transcript event: text='Ciao ciao!', final=False
+2025-03-31 07:45:07 - INFO - Emitted transcript event: 'Ciao ciao!', Final: False
+2025-03-31 07:45:07 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:07 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:07 - INFO - === DEEPGRAM TRANSCRIPT RECEIVED ===
+2025-03-31 07:45:07 - INFO - About to emit transcript event: text='Ciao ciao!', final=True
+2025-03-31 07:45:07 - INFO - Reset transcript parts after final message
+2025-03-31 07:45:07 - INFO - Emitted transcript event: 'Ciao ciao!', Final: True
+2025-03-31 07:45:07 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:07 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:07 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:07 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:07 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:07 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:07 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:07 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:07 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:07 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:07 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:07 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:07 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:07 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:07 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:07 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:07 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:07 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:07 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:07 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:07 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:07 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:08 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:08 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:08 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:08 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:08 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:08 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:08 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:08 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:08 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:08 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:08 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:08 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:08 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:08 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:08 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:08 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:08 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:08 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:08 - INFO - === DEEPGRAM TRANSCRIPT RECEIVED ===
+2025-03-31 07:45:08 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:08 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:08 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:08 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:08 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:08 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:08 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:08 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:08 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:08 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:08 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:08 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:08 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:08 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:08 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:08 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:08 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:08 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:08 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:08 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:08 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:08 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:08 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:08 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:08 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:08 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:08 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:08 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:09 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:09 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:09 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:09 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:09 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:09 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:09 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:09 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:09 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:09 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:09 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:09 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:09 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:09 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:09 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:09 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:09 - INFO - === DEEPGRAM TRANSCRIPT RECEIVED ===
+2025-03-31 07:45:09 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:09 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:09 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:09 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:09 - INFO - === DEEPGRAM TRANSCRIPT RECEIVED ===
+2025-03-31 07:45:09 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:09 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:09 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:09 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:09 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:09 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:09 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:09 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:09 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:09 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:09 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:09 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:09 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:09 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:09 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:09 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:09 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:09 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:09 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:09 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:09 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:09 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:09 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:09 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:09 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:09 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:09 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:09 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:10 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:10 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:10 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:10 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:10 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:10 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:10 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:10 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:10 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:10 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:10 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:10 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:10 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:10 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:10 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:10 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:10 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:10 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:10 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:10 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:10 - INFO - === DEEPGRAM TRANSCRIPT RECEIVED ===
+2025-03-31 07:45:10 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:10 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:10 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:10 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:10 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:10 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:10 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:10 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:10 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:10 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:10 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:10 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:10 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:10 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:10 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:10 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:10 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:10 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:10 - INFO - === DEEPGRAM TRANSCRIPT RECEIVED ===
+2025-03-31 07:45:10 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:10 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:10 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:10 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:10 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:10 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:10 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:10 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:11 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:11 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:11 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:11 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:11 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:11 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:11 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:11 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:11 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:11 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:11 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:11 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:11 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:11 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:11 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:11 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:11 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:11 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:11 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:11 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:11 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:11 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:11 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:11 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:11 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:11 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:11 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:11 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:11 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:11 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:11 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:11 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:11 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:11 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:11 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:11 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:11 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:11 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:11 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:11 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:11 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:11 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:11 - INFO - === DEEPGRAM TRANSCRIPT RECEIVED ===
+2025-03-31 07:45:11 - INFO - === DEEPGRAM TRANSCRIPT RECEIVED ===
+2025-03-31 07:45:11 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:11 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:11 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:11 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:11 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:11 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:12 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:12 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:12 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:12 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:12 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:12 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:12 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:12 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:12 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:12 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:12 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:12 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:12 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:12 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:12 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:12 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:12 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:12 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:12 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:12 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:12 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:12 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:12 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:12 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:12 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:12 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:12 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:12 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:12 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:12 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:12 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:12 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:12 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:12 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:12 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:12 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:12 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:12 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:12 - INFO - === DEEPGRAM TRANSCRIPT RECEIVED ===
+2025-03-31 07:45:12 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:12 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:12 - INFO - === DEEPGRAM TRANSCRIPT RECEIVED ===
+2025-03-31 07:45:12 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:12 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:12 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:12 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:12 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:12 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:13 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:13 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:13 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:13 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:13 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:13 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:13 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:13 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:13 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:13 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:13 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:13 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:13 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:13 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:13 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:13 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:13 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:13 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:13 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:13 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:13 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:13 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:13 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:13 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:13 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:13 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:13 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:13 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:13 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 07:45:13 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 07:45:43 - INFO - === DEEPGRAM CONNECTION CLOSED ===
+2025-03-31 07:45:43 - INFO - === DEEPGRAM TRANSCRIPT RECEIVED ===
+2025-03-31 07:45:43 - INFO - === DEEPGRAM CONNECTION CLOSED ===
+2025-03-31 07:45:46 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 07:45:46 - INFO - Assistant ID: 3
+2025-03-31 07:45:46 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 07:49:31 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 07:49:31 - INFO - Assistant ID: 3
+2025-03-31 07:49:31 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 08:16:20 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 08:16:20 - INFO - Assistant ID: 3
+2025-03-31 08:16:20 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 08:19:59 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 08:19:59 - INFO - Assistant ID: 3
+2025-03-31 08:19:59 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 08:23:08 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 08:23:08 - INFO - Assistant ID: 3
+2025-03-31 08:23:08 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 08:25:13 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 08:25:13 - INFO - Assistant ID: 3
+2025-03-31 08:25:13 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 08:27:29 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 08:27:29 - INFO - Assistant ID: 3
+2025-03-31 08:27:29 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 08:30:48 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 08:30:48 - INFO - Assistant ID: 3
+2025-03-31 08:30:48 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 08:33:14 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 08:33:14 - INFO - Assistant ID: 3
+2025-03-31 08:33:14 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 08:35:30 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 08:35:30 - INFO - Assistant ID: 3
+2025-03-31 08:35:30 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 08:38:58 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 08:38:58 - INFO - Assistant ID: 3
+2025-03-31 08:38:58 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 08:41:31 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 08:41:31 - INFO - Assistant ID: 3
+2025-03-31 08:41:31 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 08:42:22 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 08:42:22 - INFO - Assistant ID: 3
+2025-03-31 08:42:22 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 08:48:43 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 08:48:43 - INFO - Assistant ID: 3
+2025-03-31 08:48:43 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 08:58:16 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 08:58:16 - INFO - Assistant ID: 3
+2025-03-31 08:58:16 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 09:04:32 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 09:04:32 - INFO - Assistant ID: 3
+2025-03-31 09:04:32 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 09:14:58 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 09:14:58 - INFO - Assistant ID: 3
+2025-03-31 09:14:58 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 09:16:21 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 09:16:21 - INFO - Assistant ID: 3
+2025-03-31 09:16:21 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 09:17:04 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 09:17:04 - INFO - Assistant ID: 3
+2025-03-31 09:17:04 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 09:22:39 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 09:22:39 - INFO - Assistant ID: 3
+2025-03-31 09:22:39 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 09:22:56 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 09:22:56 - INFO - Assistant ID: 3
+2025-03-31 09:22:56 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 09:32:19 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 09:32:19 - INFO - Assistant ID: 3
+2025-03-31 09:32:19 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 11:17:13 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 11:17:13 - INFO - Assistant ID: 3
+2025-03-31 11:17:13 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 11:20:09 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 11:20:09 - INFO - Assistant ID: 3
+2025-03-31 11:20:09 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 11:23:48 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 11:23:48 - INFO - Assistant ID: 3
+2025-03-31 11:23:48 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 11:34:05 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 11:34:05 - INFO - Assistant ID: 3
+2025-03-31 11:34:05 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 11:40:07 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 11:40:07 - INFO - Assistant ID: 3
+2025-03-31 11:40:07 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 11:41:36 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 11:41:36 - INFO - Assistant ID: 3
+2025-03-31 11:41:36 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 11:43:30 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 11:43:30 - INFO - Assistant ID: 3
+2025-03-31 11:43:30 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 11:45:59 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 11:45:59 - INFO - Assistant ID: 3
+2025-03-31 11:45:59 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 11:47:03 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 11:47:03 - INFO - Assistant ID: 3
+2025-03-31 11:47:03 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 11:51:46 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 11:51:46 - INFO - Assistant ID: 3
+2025-03-31 11:51:46 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 11:51:46 - INFO - === STARTING STREAM ===
+2025-03-31 11:51:46 - INFO - Assistant ID: 3
+2025-03-31 11:51:46 - INFO - === INITIALIZING DEEPGRAM CONNECTION ===
+2025-03-31 11:51:46 - INFO - Created Deepgram connection
+2025-03-31 11:51:46 - INFO - Event handlers registered
+2025-03-31 11:51:46 - INFO - === STARTING STREAM ===
+2025-03-31 11:51:46 - INFO - Assistant ID: 3
+2025-03-31 11:51:46 - INFO - === INITIALIZING DEEPGRAM CONNECTION ===
+2025-03-31 11:51:46 - INFO - Created Deepgram connection
+2025-03-31 11:51:46 - INFO - Event handlers registered
+2025-03-31 11:51:46 - INFO - === DEEPGRAM CONNECTION OPENED ===
+2025-03-31 11:51:46 - INFO - Assistant ID: 3
+2025-03-31 11:51:46 - INFO - Deepgram connection started successfully
+2025-03-31 11:51:46 - INFO - Connection confirmed as open
+2025-03-31 11:51:46 - INFO - Stream initialized successfully
+2025-03-31 11:51:46 - INFO - === DEEPGRAM CONNECTION OPENED ===
+2025-03-31 11:51:46 - INFO - Assistant ID: 3
+2025-03-31 11:51:46 - INFO - Deepgram connection started successfully
+2025-03-31 11:51:46 - INFO - Connection confirmed as open
+2025-03-31 11:51:46 - INFO - Stream initialized successfully
+2025-03-31 11:52:11 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 11:52:11 - INFO - Assistant ID: 3
+2025-03-31 11:52:11 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 11:52:11 - INFO - === STARTING STREAM ===
+2025-03-31 11:52:11 - INFO - Assistant ID: 3
+2025-03-31 11:52:11 - INFO - === STARTING STREAM ===
+2025-03-31 11:52:11 - INFO - Assistant ID: 3
+2025-03-31 11:52:11 - ERROR - Error starting stream: Second simultaneous read on fileno 20 detected.  Unless you really know what you're doing, make sure that only one greenthread can read any particular socket.  Consider using a pools.Pool. If you do know what you're doing and want to disable this error, call eventlet.debug.hub_prevent_multiple_readers(False) - MY THREAD=<function select.<locals>.on_read at 0x7ac0885981f0>; THAT THREAD=FdListener('read', 20, <function select.<locals>.on_read at 0x7ac08856fd90>, <built-in method throw of GreenThread object at 0x7ac088597100>)
+2025-03-31 11:52:11 - INFO - === INITIALIZING DEEPGRAM CONNECTION ===
+2025-03-31 11:52:11 - INFO - Created Deepgram connection
+2025-03-31 11:52:11 - INFO - Event handlers registered
+2025-03-31 11:52:12 - INFO - === DEEPGRAM CONNECTION OPENED ===
+2025-03-31 11:52:12 - INFO - Assistant ID: 3
+2025-03-31 11:52:12 - INFO - Deepgram connection started successfully
+2025-03-31 11:52:12 - INFO - Connection confirmed as open
+2025-03-31 11:52:12 - INFO - === INITIALIZING DEEPGRAM CONNECTION ===
+2025-03-31 11:52:12 - INFO - Created Deepgram connection
+2025-03-31 11:52:12 - INFO - Event handlers registered
+2025-03-31 11:52:13 - INFO - === DEEPGRAM CONNECTION OPENED ===
+2025-03-31 11:52:13 - INFO - Assistant ID: 3
+2025-03-31 11:52:13 - INFO - Deepgram connection started successfully
+2025-03-31 11:52:13 - INFO - Connection confirmed as open
+2025-03-31 11:52:13 - INFO - Stream initialized successfully
+2025-03-31 11:52:13 - ERROR - === DEEPGRAM ERROR === Error details: <deepgram.clients.listen.v1.websocket.client.ListenWebSocketClient object at 0x7ac0888091e0>
+2025-03-31 11:52:13 - INFO - === DEEPGRAM CONNECTION CLOSED ===
+2025-03-31 12:00:18 - ERROR - === DEEPGRAM ERROR === Error details: <deepgram.clients.listen.v1.websocket.client.ListenWebSocketClient object at 0x7ac08858b040>
+2025-03-31 12:00:18 - INFO - === DEEPGRAM CONNECTION CLOSED ===
+2025-03-31 12:01:39 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 12:01:39 - INFO - Assistant ID: 3
+2025-03-31 12:01:39 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 12:01:39 - INFO - === STARTING STREAM ===
+2025-03-31 12:01:39 - INFO - Assistant ID: 3
+2025-03-31 12:01:39 - INFO - === INITIALIZING DEEPGRAM CONNECTION ===
+2025-03-31 12:01:39 - INFO - Created Deepgram connection
+2025-03-31 12:01:39 - INFO - Event handlers registered
+2025-03-31 12:01:40 - INFO - === DEEPGRAM CONNECTION OPENED ===
+2025-03-31 12:01:40 - INFO - Assistant ID: 3
+2025-03-31 12:01:40 - INFO - Deepgram connection started successfully
+2025-03-31 12:01:40 - INFO - Connection confirmed as open
+2025-03-31 12:01:40 - INFO - Stream initialized successfully
+2025-03-31 12:01:59 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 12:01:59 - INFO - Assistant ID: 3
+2025-03-31 12:01:59 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 12:01:59 - INFO - === STARTING STREAM ===
+2025-03-31 12:01:59 - INFO - Assistant ID: 3
+2025-03-31 12:01:59 - INFO - === INITIALIZING DEEPGRAM CONNECTION ===
+2025-03-31 12:01:59 - INFO - Created Deepgram connection
+2025-03-31 12:01:59 - INFO - Event handlers registered
+2025-03-31 12:01:59 - INFO - === STARTING STREAM ===
+2025-03-31 12:01:59 - INFO - Assistant ID: 3
+2025-03-31 12:01:59 - INFO - === INITIALIZING DEEPGRAM CONNECTION ===
+2025-03-31 12:01:59 - INFO - Created Deepgram connection
+2025-03-31 12:01:59 - INFO - Event handlers registered
+2025-03-31 12:01:59 - INFO - === DEEPGRAM CONNECTION OPENED ===
+2025-03-31 12:01:59 - INFO - Assistant ID: 3
+2025-03-31 12:01:59 - INFO - Deepgram connection started successfully
+2025-03-31 12:01:59 - INFO - Connection confirmed as open
+2025-03-31 12:01:59 - INFO - Stream initialized successfully
+2025-03-31 12:01:59 - INFO - === DEEPGRAM CONNECTION OPENED ===
+2025-03-31 12:01:59 - INFO - Assistant ID: 3
+2025-03-31 12:01:59 - INFO - Deepgram connection started successfully
+2025-03-31 12:01:59 - INFO - Connection confirmed as open
+2025-03-31 12:01:59 - INFO - Stream initialized successfully
+2025-03-31 12:02:51 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 12:02:51 - INFO - Assistant ID: 3
+2025-03-31 12:02:51 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 12:02:51 - INFO - === STARTING STREAM ===
+2025-03-31 12:02:51 - INFO - Assistant ID: 3
+2025-03-31 12:02:51 - INFO - === INITIALIZING DEEPGRAM CONNECTION ===
+2025-03-31 12:02:51 - INFO - Created Deepgram connection
+2025-03-31 12:02:51 - INFO - Event handlers registered
+2025-03-31 12:02:51 - INFO - === STARTING STREAM ===
+2025-03-31 12:02:51 - INFO - Assistant ID: 3
+2025-03-31 12:02:51 - INFO - === INITIALIZING DEEPGRAM CONNECTION ===
+2025-03-31 12:02:51 - INFO - Created Deepgram connection
+2025-03-31 12:02:51 - INFO - Event handlers registered
+2025-03-31 12:02:52 - INFO - === DEEPGRAM CONNECTION OPENED ===
+2025-03-31 12:02:52 - INFO - Assistant ID: 3
+2025-03-31 12:02:52 - INFO - Deepgram connection started successfully
+2025-03-31 12:02:52 - INFO - Connection confirmed as open
+2025-03-31 12:02:52 - INFO - Stream initialized successfully
+2025-03-31 12:02:52 - INFO - === DEEPGRAM CONNECTION OPENED ===
+2025-03-31 12:02:52 - INFO - Assistant ID: 3
+2025-03-31 12:02:52 - INFO - Deepgram connection started successfully
+2025-03-31 12:02:52 - INFO - Connection confirmed as open
+2025-03-31 12:02:52 - INFO - Stream initialized successfully
+2025-03-31 12:03:15 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 12:03:15 - INFO - Assistant ID: 3
+2025-03-31 12:03:15 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 12:03:15 - INFO - === STARTING STREAM ===
+2025-03-31 12:03:15 - INFO - Assistant ID: 3
+2025-03-31 12:03:15 - INFO - === INITIALIZING DEEPGRAM CONNECTION ===
+2025-03-31 12:03:15 - INFO - Created Deepgram connection
+2025-03-31 12:03:15 - INFO - Event handlers registered
+2025-03-31 12:03:15 - INFO - === STARTING STREAM ===
+2025-03-31 12:03:15 - INFO - Assistant ID: 3
+2025-03-31 12:03:15 - INFO - === INITIALIZING DEEPGRAM CONNECTION ===
+2025-03-31 12:03:15 - INFO - Created Deepgram connection
+2025-03-31 12:03:15 - INFO - Event handlers registered
+2025-03-31 12:03:15 - INFO - === DEEPGRAM CONNECTION OPENED ===
+2025-03-31 12:03:15 - INFO - Assistant ID: 3
+2025-03-31 12:03:15 - INFO - Deepgram connection started successfully
+2025-03-31 12:03:15 - INFO - Connection confirmed as open
+2025-03-31 12:03:15 - INFO - Stream initialized successfully
+2025-03-31 12:03:15 - INFO - === DEEPGRAM CONNECTION OPENED ===
+2025-03-31 12:03:15 - INFO - Assistant ID: 3
+2025-03-31 12:03:15 - INFO - Deepgram connection started successfully
+2025-03-31 12:03:15 - INFO - Connection confirmed as open
+2025-03-31 12:03:15 - INFO - Stream initialized successfully
+2025-03-31 12:06:17 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 12:06:17 - INFO - Assistant ID: 3
+2025-03-31 12:06:17 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 12:06:17 - INFO - === STARTING STREAM ===
+2025-03-31 12:06:17 - INFO - Assistant ID: 3
+2025-03-31 12:06:17 - INFO - === INITIALIZING DEEPGRAM CONNECTION ===
+2025-03-31 12:06:17 - INFO - Created Deepgram connection
+2025-03-31 12:06:17 - INFO - Event handlers registered
+2025-03-31 12:06:17 - INFO - === STARTING STREAM ===
+2025-03-31 12:06:17 - INFO - Assistant ID: 3
+2025-03-31 12:06:17 - INFO - === INITIALIZING DEEPGRAM CONNECTION ===
+2025-03-31 12:06:17 - INFO - Created Deepgram connection
+2025-03-31 12:06:17 - INFO - Event handlers registered
+2025-03-31 12:06:17 - INFO - === DEEPGRAM CONNECTION OPENED ===
+2025-03-31 12:06:17 - INFO - Assistant ID: 3
+2025-03-31 12:06:17 - INFO - Deepgram connection started successfully
+2025-03-31 12:06:17 - INFO - Connection confirmed as open
+2025-03-31 12:06:17 - INFO - Stream initialized successfully
+2025-03-31 12:06:17 - INFO - === DEEPGRAM CONNECTION OPENED ===
+2025-03-31 12:06:17 - INFO - Assistant ID: 3
+2025-03-31 12:06:17 - INFO - Deepgram connection started successfully
+2025-03-31 12:06:17 - INFO - Connection confirmed as open
+2025-03-31 12:06:17 - INFO - Stream initialized successfully
+2025-03-31 12:06:25 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 12:06:25 - INFO - Assistant ID: 3
+2025-03-31 12:06:25 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 12:06:25 - INFO - === STARTING STREAM ===
+2025-03-31 12:06:25 - INFO - Assistant ID: 3
+2025-03-31 12:06:25 - INFO - === INITIALIZING DEEPGRAM CONNECTION ===
+2025-03-31 12:06:25 - INFO - Created Deepgram connection
+2025-03-31 12:06:25 - INFO - Event handlers registered
+2025-03-31 12:06:26 - INFO - === STARTING STREAM ===
+2025-03-31 12:06:26 - INFO - Assistant ID: 3
+2025-03-31 12:06:26 - INFO - === INITIALIZING DEEPGRAM CONNECTION ===
+2025-03-31 12:06:26 - INFO - Created Deepgram connection
+2025-03-31 12:06:26 - INFO - Event handlers registered
+2025-03-31 12:06:26 - INFO - === DEEPGRAM CONNECTION OPENED ===
+2025-03-31 12:06:26 - INFO - Assistant ID: 3
+2025-03-31 12:06:26 - INFO - Deepgram connection started successfully
+2025-03-31 12:06:26 - INFO - Connection confirmed as open
+2025-03-31 12:06:26 - INFO - Stream initialized successfully
+2025-03-31 12:06:26 - INFO - === DEEPGRAM CONNECTION OPENED ===
+2025-03-31 12:06:26 - INFO - Assistant ID: 3
+2025-03-31 12:06:26 - INFO - Deepgram connection started successfully
+2025-03-31 12:06:26 - INFO - Connection confirmed as open
+2025-03-31 12:06:26 - INFO - Stream initialized successfully
+2025-03-31 12:07:58 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 12:07:58 - INFO - Assistant ID: 3
+2025-03-31 12:07:58 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 12:07:58 - INFO - === STARTING STREAM ===
+2025-03-31 12:07:58 - INFO - Assistant ID: 3
+2025-03-31 12:07:58 - INFO - === INITIALIZING DEEPGRAM CONNECTION ===
+2025-03-31 12:07:58 - INFO - Created Deepgram connection
+2025-03-31 12:07:58 - INFO - Event handlers registered
+2025-03-31 12:07:58 - INFO - === STARTING STREAM ===
+2025-03-31 12:07:58 - INFO - Assistant ID: 3
+2025-03-31 12:07:58 - INFO - === INITIALIZING DEEPGRAM CONNECTION ===
+2025-03-31 12:07:58 - INFO - Created Deepgram connection
+2025-03-31 12:07:58 - INFO - Event handlers registered
+2025-03-31 12:07:59 - INFO - === DEEPGRAM CONNECTION OPENED ===
+2025-03-31 12:07:59 - INFO - Assistant ID: 3
+2025-03-31 12:07:59 - INFO - Deepgram connection started successfully
+2025-03-31 12:07:59 - INFO - Connection confirmed as open
+2025-03-31 12:07:59 - INFO - Stream initialized successfully
+2025-03-31 12:07:59 - INFO - === DEEPGRAM CONNECTION OPENED ===
+2025-03-31 12:07:59 - INFO - Assistant ID: 3
+2025-03-31 12:07:59 - INFO - Deepgram connection started successfully
+2025-03-31 12:07:59 - INFO - Connection confirmed as open
+2025-03-31 12:07:59 - INFO - Stream initialized successfully
+2025-03-31 12:10:33 - ERROR - === DEEPGRAM ERROR === Error details: <deepgram.clients.listen.v1.websocket.client.ListenWebSocketClient object at 0x71d57a82bc10>
+2025-03-31 12:10:33 - INFO - === DEEPGRAM CONNECTION CLOSED ===
+2025-03-31 12:11:34 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 12:11:34 - INFO - Assistant ID: 3
+2025-03-31 12:11:34 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 12:11:34 - INFO - === STARTING STREAM ===
+2025-03-31 12:11:34 - INFO - Assistant ID: 3
+2025-03-31 12:11:34 - INFO - === STARTING STREAM ===
+2025-03-31 12:11:34 - INFO - Assistant ID: 3
+2025-03-31 12:11:34 - ERROR - Error starting stream: Second simultaneous read on fileno 15 detected.  Unless you really know what you're doing, make sure that only one greenthread can read any particular socket.  Consider using a pools.Pool. If you do know what you're doing and want to disable this error, call eventlet.debug.hub_prevent_multiple_readers(False) - MY THREAD=<function select.<locals>.on_read at 0x7f1c4c6b1750>; THAT THREAD=FdListener('read', 15, <function select.<locals>.on_read at 0x7f1c4cb2bd00>, <built-in method throw of GreenThread object at 0x7f1c4c6c3c40>)
+2025-03-31 12:11:34 - INFO - === INITIALIZING DEEPGRAM CONNECTION ===
+2025-03-31 12:11:34 - INFO - Created Deepgram connection
+2025-03-31 12:11:34 - INFO - Event handlers registered
+2025-03-31 12:11:44 - ERROR - Failed to start Deepgram connection
+2025-03-31 12:11:44 - INFO - === INITIALIZING DEEPGRAM CONNECTION ===
+2025-03-31 12:11:44 - INFO - Created Deepgram connection
+2025-03-31 12:11:44 - INFO - Event handlers registered
+2025-03-31 12:11:44 - INFO - === DEEPGRAM CONNECTION OPENED ===
+2025-03-31 12:11:44 - INFO - Assistant ID: 3
+2025-03-31 12:11:44 - INFO - Deepgram connection started successfully
+2025-03-31 12:11:44 - INFO - Connection confirmed as open
+2025-03-31 12:11:44 - ERROR - Failed to start stream - connection initialization failed
+2025-03-31 12:11:49 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 12:11:49 - INFO - Assistant ID: 3
+2025-03-31 12:11:49 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 12:11:50 - INFO - === STARTING STREAM ===
+2025-03-31 12:11:50 - INFO - Assistant ID: 3
+2025-03-31 12:11:50 - INFO - === INITIALIZING DEEPGRAM CONNECTION ===
+2025-03-31 12:11:50 - INFO - Created Deepgram connection
+2025-03-31 12:11:50 - INFO - Event handlers registered
+2025-03-31 12:11:50 - INFO - === STARTING STREAM ===
+2025-03-31 12:11:50 - INFO - Assistant ID: 3
+2025-03-31 12:11:50 - INFO - === INITIALIZING DEEPGRAM CONNECTION ===
+2025-03-31 12:11:50 - INFO - Created Deepgram connection
+2025-03-31 12:11:50 - INFO - Event handlers registered
+2025-03-31 12:11:50 - INFO - === DEEPGRAM CONNECTION OPENED ===
+2025-03-31 12:11:50 - INFO - Assistant ID: 3
+2025-03-31 12:11:50 - INFO - Deepgram connection started successfully
+2025-03-31 12:11:50 - INFO - Connection confirmed as open
+2025-03-31 12:11:50 - INFO - Stream initialized successfully
+2025-03-31 12:12:00 - ERROR - Failed to start Deepgram connection
+2025-03-31 12:12:00 - ERROR - Failed to start stream - connection initialization failed
+2025-03-31 12:14:49 - ERROR - === DEEPGRAM ERROR === Error details: <deepgram.clients.listen.v1.websocket.client.ListenWebSocketClient object at 0x7f1c5d3cdb70>
+2025-03-31 12:14:49 - INFO - === DEEPGRAM CONNECTION CLOSED ===
+2025-03-31 12:15:30 - ERROR - === DEEPGRAM ERROR === Error details: <deepgram.clients.listen.v1.websocket.client.ListenWebSocketClient object at 0x7f1c4c3114b0>
+2025-03-31 12:15:30 - INFO - === DEEPGRAM CONNECTION CLOSED ===
+2025-03-31 13:45:34 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 13:45:34 - INFO - Assistant ID: 1
+2025-03-31 13:45:34 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 13:45:34 - INFO - === STARTING STREAM ===
+2025-03-31 13:45:34 - INFO - Assistant ID: 1
+2025-03-31 13:45:34 - INFO - === STARTING STREAM ===
+2025-03-31 13:45:34 - INFO - Assistant ID: 1
+2025-03-31 13:45:34 - ERROR - Error starting stream: Second simultaneous read on fileno 15 detected.  Unless you really know what you're doing, make sure that only one greenthread can read any particular socket.  Consider using a pools.Pool. If you do know what you're doing and want to disable this error, call eventlet.debug.hub_prevent_multiple_readers(False) - MY THREAD=<function select.<locals>.on_read at 0x7c79597c30a0>; THAT THREAD=FdListener('read', 15, <function select.<locals>.on_read at 0x7c79597c1ea0>, <built-in method throw of GreenThread object at 0x7c79597eae40>)
+2025-03-31 13:45:34 - INFO - === INITIALIZING DEEPGRAM CONNECTION ===
+2025-03-31 13:45:34 - INFO - Created Deepgram connection
+2025-03-31 13:45:34 - INFO - Event handlers registered
+2025-03-31 13:45:35 - INFO - === DEEPGRAM CONNECTION OPENED ===
+2025-03-31 13:45:35 - INFO - Assistant ID: 1
+2025-03-31 13:45:35 - INFO - Deepgram connection started successfully
+2025-03-31 13:45:35 - INFO - Connection confirmed as open
+2025-03-31 13:45:35 - INFO - === INITIALIZING DEEPGRAM CONNECTION ===
+2025-03-31 13:45:35 - INFO - Created Deepgram connection
+2025-03-31 13:45:35 - INFO - Event handlers registered
+2025-03-31 13:45:35 - INFO - === DEEPGRAM CONNECTION OPENED ===
+2025-03-31 13:45:35 - INFO - Assistant ID: 1
+2025-03-31 13:45:35 - INFO - Deepgram connection started successfully
+2025-03-31 13:45:35 - INFO - Connection confirmed as open
+2025-03-31 13:45:35 - INFO - Stream initialized successfully
+2025-03-31 13:45:52 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 13:45:52 - INFO - Assistant ID: 1
+2025-03-31 13:45:52 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 13:45:52 - INFO - === STARTING STREAM ===
+2025-03-31 13:45:52 - INFO - Assistant ID: 1
+2025-03-31 13:45:52 - INFO - === INITIALIZING DEEPGRAM CONNECTION ===
+2025-03-31 13:45:52 - INFO - Created Deepgram connection
+2025-03-31 13:45:52 - INFO - Event handlers registered
+2025-03-31 13:45:52 - INFO - === STARTING STREAM ===
+2025-03-31 13:45:52 - INFO - Assistant ID: 1
+2025-03-31 13:45:52 - INFO - === INITIALIZING DEEPGRAM CONNECTION ===
+2025-03-31 13:45:52 - INFO - Created Deepgram connection
+2025-03-31 13:45:52 - INFO - Event handlers registered
+2025-03-31 13:45:53 - INFO - === DEEPGRAM CONNECTION OPENED ===
+2025-03-31 13:45:53 - INFO - Assistant ID: 1
+2025-03-31 13:45:53 - INFO - Deepgram connection started successfully
+2025-03-31 13:45:53 - INFO - Connection confirmed as open
+2025-03-31 13:45:53 - INFO - Stream initialized successfully
+2025-03-31 13:45:54 - INFO - === DEEPGRAM CONNECTION OPENED ===
+2025-03-31 13:45:54 - INFO - Assistant ID: 1
+2025-03-31 13:45:54 - INFO - Deepgram connection started successfully
+2025-03-31 13:45:54 - INFO - Connection confirmed as open
+2025-03-31 13:45:54 - INFO - Stream initialized successfully
+2025-03-31 13:46:08 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 13:46:08 - INFO - Assistant ID: 1
+2025-03-31 13:46:08 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 13:46:08 - INFO - === STARTING STREAM ===
+2025-03-31 13:46:08 - INFO - Assistant ID: 1
+2025-03-31 13:46:08 - INFO - === INITIALIZING DEEPGRAM CONNECTION ===
+2025-03-31 13:46:08 - INFO - Created Deepgram connection
+2025-03-31 13:46:08 - INFO - Event handlers registered
+2025-03-31 13:46:08 - INFO - === STARTING STREAM ===
+2025-03-31 13:46:08 - INFO - Assistant ID: 1
+2025-03-31 13:46:08 - INFO - === INITIALIZING DEEPGRAM CONNECTION ===
+2025-03-31 13:46:08 - INFO - Created Deepgram connection
+2025-03-31 13:46:08 - INFO - Event handlers registered
+2025-03-31 13:46:08 - INFO - === DEEPGRAM CONNECTION OPENED ===
+2025-03-31 13:46:08 - INFO - Assistant ID: 1
+2025-03-31 13:46:08 - INFO - Deepgram connection started successfully
+2025-03-31 13:46:08 - INFO - Connection confirmed as open
+2025-03-31 13:46:08 - INFO - Stream initialized successfully
+2025-03-31 13:46:08 - INFO - === DEEPGRAM CONNECTION OPENED ===
+2025-03-31 13:46:08 - INFO - Assistant ID: 1
+2025-03-31 13:46:08 - INFO - Deepgram connection started successfully
+2025-03-31 13:46:08 - INFO - Connection confirmed as open
+2025-03-31 13:46:08 - INFO - Stream initialized successfully
+2025-03-31 13:46:31 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 13:46:31 - INFO - Assistant ID: 1
+2025-03-31 13:46:31 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 13:46:31 - INFO - === STARTING STREAM ===
+2025-03-31 13:46:31 - INFO - Assistant ID: 1
+2025-03-31 13:46:31 - INFO - === INITIALIZING DEEPGRAM CONNECTION ===
+2025-03-31 13:46:31 - INFO - Created Deepgram connection
+2025-03-31 13:46:31 - INFO - Event handlers registered
+2025-03-31 13:46:31 - INFO - === STARTING STREAM ===
+2025-03-31 13:46:31 - INFO - Assistant ID: 1
+2025-03-31 13:46:31 - INFO - === INITIALIZING DEEPGRAM CONNECTION ===
+2025-03-31 13:46:31 - INFO - Created Deepgram connection
+2025-03-31 13:46:31 - INFO - Event handlers registered
+2025-03-31 13:46:31 - INFO - === DEEPGRAM CONNECTION OPENED ===
+2025-03-31 13:46:31 - INFO - Assistant ID: 1
+2025-03-31 13:46:31 - INFO - Deepgram connection started successfully
+2025-03-31 13:46:31 - INFO - Connection confirmed as open
+2025-03-31 13:46:31 - INFO - Stream initialized successfully
+2025-03-31 13:46:31 - INFO - === DEEPGRAM CONNECTION OPENED ===
+2025-03-31 13:46:31 - INFO - Assistant ID: 1
+2025-03-31 13:46:31 - INFO - Deepgram connection started successfully
+2025-03-31 13:46:31 - INFO - Connection confirmed as open
+2025-03-31 13:46:31 - INFO - Stream initialized successfully
+2025-03-31 13:46:59 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 13:46:59 - INFO - Assistant ID: 1
+2025-03-31 13:46:59 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 13:46:59 - INFO - === STARTING STREAM ===
+2025-03-31 13:46:59 - INFO - Assistant ID: 1
+2025-03-31 13:46:59 - INFO - === INITIALIZING DEEPGRAM CONNECTION ===
+2025-03-31 13:46:59 - INFO - Created Deepgram connection
+2025-03-31 13:46:59 - INFO - Event handlers registered
+2025-03-31 13:46:59 - INFO - === STARTING STREAM ===
+2025-03-31 13:46:59 - INFO - Assistant ID: 1
+2025-03-31 13:46:59 - INFO - === INITIALIZING DEEPGRAM CONNECTION ===
+2025-03-31 13:46:59 - INFO - Created Deepgram connection
+2025-03-31 13:46:59 - INFO - Event handlers registered
+2025-03-31 13:46:59 - INFO - === DEEPGRAM CONNECTION OPENED ===
+2025-03-31 13:46:59 - INFO - Assistant ID: 1
+2025-03-31 13:46:59 - INFO - Deepgram connection started successfully
+2025-03-31 13:46:59 - INFO - Connection confirmed as open
+2025-03-31 13:46:59 - INFO - Stream initialized successfully
+2025-03-31 13:46:59 - INFO - === DEEPGRAM CONNECTION OPENED ===
+2025-03-31 13:46:59 - INFO - Assistant ID: 1
+2025-03-31 13:46:59 - INFO - Deepgram connection started successfully
+2025-03-31 13:46:59 - INFO - Connection confirmed as open
+2025-03-31 13:46:59 - INFO - Stream initialized successfully
+2025-03-31 13:47:36 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 13:47:36 - INFO - Assistant ID: 1
+2025-03-31 13:47:36 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 13:47:36 - INFO - === STARTING STREAM ===
+2025-03-31 13:47:36 - INFO - Assistant ID: 1
+2025-03-31 13:47:36 - INFO - === INITIALIZING DEEPGRAM CONNECTION ===
+2025-03-31 13:47:36 - INFO - Created Deepgram connection
+2025-03-31 13:47:36 - INFO - Event handlers registered
+2025-03-31 13:47:36 - INFO - === STARTING STREAM ===
+2025-03-31 13:47:36 - INFO - Assistant ID: 1
+2025-03-31 13:47:36 - INFO - === INITIALIZING DEEPGRAM CONNECTION ===
+2025-03-31 13:47:36 - INFO - Created Deepgram connection
+2025-03-31 13:47:36 - INFO - Event handlers registered
+2025-03-31 13:47:37 - INFO - === DEEPGRAM CONNECTION OPENED ===
+2025-03-31 13:47:37 - INFO - Assistant ID: 1
+2025-03-31 13:47:37 - INFO - Deepgram connection started successfully
+2025-03-31 13:47:37 - INFO - Connection confirmed as open
+2025-03-31 13:47:37 - INFO - Stream initialized successfully
+2025-03-31 13:47:37 - INFO - === DEEPGRAM CONNECTION OPENED ===
+2025-03-31 13:47:37 - INFO - Assistant ID: 1
+2025-03-31 13:47:37 - INFO - Deepgram connection started successfully
+2025-03-31 13:47:37 - INFO - Connection confirmed as open
+2025-03-31 13:47:37 - INFO - Stream initialized successfully
+2025-03-31 13:47:48 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 13:47:48 - INFO - Assistant ID: 1
+2025-03-31 13:47:48 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 13:47:48 - INFO - === STARTING STREAM ===
+2025-03-31 13:47:48 - INFO - Assistant ID: 1
+2025-03-31 13:47:48 - INFO - === INITIALIZING DEEPGRAM CONNECTION ===
+2025-03-31 13:47:48 - INFO - Created Deepgram connection
+2025-03-31 13:47:48 - INFO - Event handlers registered
+2025-03-31 13:47:48 - INFO - === STARTING STREAM ===
+2025-03-31 13:47:48 - INFO - Assistant ID: 1
+2025-03-31 13:47:48 - INFO - === INITIALIZING DEEPGRAM CONNECTION ===
+2025-03-31 13:47:48 - INFO - Created Deepgram connection
+2025-03-31 13:47:48 - INFO - Event handlers registered
+2025-03-31 13:47:49 - INFO - === DEEPGRAM CONNECTION OPENED ===
+2025-03-31 13:47:49 - INFO - Assistant ID: 1
+2025-03-31 13:47:49 - INFO - Deepgram connection started successfully
+2025-03-31 13:47:49 - INFO - Connection confirmed as open
+2025-03-31 13:47:49 - INFO - Stream initialized successfully
+2025-03-31 13:47:49 - INFO - === DEEPGRAM CONNECTION OPENED ===
+2025-03-31 13:47:49 - INFO - Assistant ID: 1
+2025-03-31 13:47:49 - INFO - Deepgram connection started successfully
+2025-03-31 13:47:49 - INFO - Connection confirmed as open
+2025-03-31 13:47:49 - INFO - Stream initialized successfully
+2025-03-31 13:49:05 - ERROR - === DEEPGRAM ERROR === Error details: <deepgram.clients.listen.v1.websocket.client.ListenWebSocketClient object at 0x7c7959612320>
+2025-03-31 13:49:05 - INFO - === DEEPGRAM CONNECTION CLOSED ===
+2025-03-31 13:49:23 - ERROR - === DEEPGRAM ERROR === Error details: <deepgram.clients.listen.v1.websocket.client.ListenWebSocketClient object at 0x7c7959624c70>
+2025-03-31 13:49:23 - INFO - === DEEPGRAM CONNECTION CLOSED ===
+2025-03-31 13:50:26 - ERROR - === DEEPGRAM ERROR === Error details: <deepgram.clients.listen.v1.websocket.client.ListenWebSocketClient object at 0x7c7959624850>
+2025-03-31 13:50:26 - INFO - === DEEPGRAM CONNECTION CLOSED ===
+2025-03-31 13:55:56 - ERROR - === DEEPGRAM ERROR === Error details: <deepgram.clients.listen.v1.websocket.client.ListenWebSocketClient object at 0x7c79597f9750>
+2025-03-31 13:55:56 - INFO - === DEEPGRAM CONNECTION CLOSED ===
+2025-03-31 13:56:42 - ERROR - === DEEPGRAM ERROR === Error details: <deepgram.clients.listen.v1.websocket.client.ListenWebSocketClient object at 0x7c79596ac670>
+2025-03-31 13:56:42 - INFO - === DEEPGRAM CONNECTION CLOSED ===
+2025-03-31 13:56:44 - ERROR - === DEEPGRAM ERROR === Error details: <deepgram.clients.listen.v1.websocket.client.ListenWebSocketClient object at 0x7c7959a4e170>
+2025-03-31 13:56:44 - INFO - === DEEPGRAM CONNECTION CLOSED ===
+2025-03-31 13:57:40 - ERROR - === DEEPGRAM ERROR === Error details: <deepgram.clients.listen.v1.websocket.client.ListenWebSocketClient object at 0x7c7959a223b0>
+2025-03-31 13:57:40 - INFO - === DEEPGRAM CONNECTION CLOSED ===
+2025-03-31 13:58:02 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 13:58:02 - INFO - Assistant ID: 1
+2025-03-31 13:58:02 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 13:58:02 - INFO - === STARTING STREAM ===
+2025-03-31 13:58:02 - INFO - Assistant ID: 1
+2025-03-31 13:58:02 - INFO - === INITIALIZING DEEPGRAM CONNECTION ===
+2025-03-31 13:58:02 - INFO - Created Deepgram connection
+2025-03-31 13:58:02 - INFO - Event handlers registered
+2025-03-31 13:58:03 - INFO - === STARTING STREAM ===
+2025-03-31 13:58:03 - INFO - Assistant ID: 1
+2025-03-31 13:58:03 - INFO - === INITIALIZING DEEPGRAM CONNECTION ===
+2025-03-31 13:58:03 - INFO - Created Deepgram connection
+2025-03-31 13:58:03 - INFO - Event handlers registered
+2025-03-31 13:58:03 - INFO - === DEEPGRAM CONNECTION OPENED ===
+2025-03-31 13:58:03 - INFO - Assistant ID: 1
+2025-03-31 13:58:03 - INFO - Deepgram connection started successfully
+2025-03-31 13:58:03 - INFO - Connection confirmed as open
+2025-03-31 13:58:03 - INFO - Stream initialized successfully
+2025-03-31 13:58:03 - INFO - === DEEPGRAM CONNECTION OPENED ===
+2025-03-31 13:58:03 - INFO - Assistant ID: 1
+2025-03-31 13:58:03 - INFO - Deepgram connection started successfully
+2025-03-31 13:58:03 - INFO - Connection confirmed as open
+2025-03-31 13:58:03 - INFO - Stream initialized successfully
+2025-03-31 14:00:09 - ERROR - === DEEPGRAM ERROR === Error details: <deepgram.clients.listen.v1.websocket.client.ListenWebSocketClient object at 0x7c7959a22ad0>
+2025-03-31 14:00:09 - INFO - === DEEPGRAM CONNECTION CLOSED ===
+2025-03-31 14:00:54 - ERROR - === DEEPGRAM ERROR === Error details: <deepgram.clients.listen.v1.websocket.client.ListenWebSocketClient object at 0x7c79599d42e0>
+2025-03-31 14:00:54 - INFO - === DEEPGRAM CONNECTION CLOSED ===
+2025-03-31 14:01:55 - ERROR - === DEEPGRAM ERROR === Error details: <deepgram.clients.listen.v1.websocket.client.ListenWebSocketClient object at 0x7c79594b3280>
+2025-03-31 14:01:55 - INFO - === DEEPGRAM CONNECTION CLOSED ===
+2025-03-31 14:04:31 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 14:04:31 - INFO - Assistant ID: 1
+2025-03-31 14:04:31 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 14:04:31 - INFO - === STARTING STREAM ===
+2025-03-31 14:04:31 - INFO - Assistant ID: 1
+2025-03-31 14:04:31 - INFO - === INITIALIZING DEEPGRAM CONNECTION ===
+2025-03-31 14:04:31 - INFO - Created Deepgram connection
+2025-03-31 14:04:31 - INFO - Event handlers registered
+2025-03-31 14:04:31 - INFO - === STARTING STREAM ===
+2025-03-31 14:04:31 - INFO - Assistant ID: 1
+2025-03-31 14:04:31 - INFO - === INITIALIZING DEEPGRAM CONNECTION ===
+2025-03-31 14:04:31 - INFO - Created Deepgram connection
+2025-03-31 14:04:31 - INFO - Event handlers registered
+2025-03-31 14:04:32 - INFO - === DEEPGRAM CONNECTION OPENED ===
+2025-03-31 14:04:32 - INFO - Assistant ID: 1
+2025-03-31 14:04:32 - INFO - Deepgram connection started successfully
+2025-03-31 14:04:32 - INFO - Connection confirmed as open
+2025-03-31 14:04:32 - INFO - Stream initialized successfully
+2025-03-31 14:04:32 - INFO - === DEEPGRAM CONNECTION OPENED ===
+2025-03-31 14:04:32 - INFO - Assistant ID: 1
+2025-03-31 14:04:32 - INFO - Deepgram connection started successfully
+2025-03-31 14:04:32 - INFO - Connection confirmed as open
+2025-03-31 14:04:32 - INFO - Stream initialized successfully
+2025-03-31 14:08:26 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 14:08:26 - INFO - Assistant ID: 1
+2025-03-31 14:08:26 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 14:08:26 - INFO - === STARTING STREAM ===
+2025-03-31 14:08:26 - INFO - Assistant ID: 1
+2025-03-31 14:08:26 - INFO - === INITIALIZING DEEPGRAM CONNECTION ===
+2025-03-31 14:08:26 - INFO - Created Deepgram connection
+2025-03-31 14:08:26 - INFO - Event handlers registered
+2025-03-31 14:08:26 - INFO - === STARTING STREAM ===
+2025-03-31 14:08:26 - INFO - Assistant ID: 1
+2025-03-31 14:08:26 - INFO - === INITIALIZING DEEPGRAM CONNECTION ===
+2025-03-31 14:08:26 - INFO - Created Deepgram connection
+2025-03-31 14:08:26 - INFO - Event handlers registered
+2025-03-31 14:08:27 - INFO - === DEEPGRAM CONNECTION OPENED ===
+2025-03-31 14:08:27 - INFO - Assistant ID: 1
+2025-03-31 14:08:27 - INFO - Deepgram connection started successfully
+2025-03-31 14:08:27 - INFO - Connection confirmed as open
+2025-03-31 14:08:27 - INFO - Stream initialized successfully
+2025-03-31 14:08:27 - INFO - === DEEPGRAM CONNECTION OPENED ===
+2025-03-31 14:08:27 - INFO - Assistant ID: 1
+2025-03-31 14:08:27 - INFO - Deepgram connection started successfully
+2025-03-31 14:08:27 - INFO - Connection confirmed as open
+2025-03-31 14:08:27 - INFO - Stream initialized successfully
+2025-03-31 14:08:27 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:27 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:27 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:27 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:27 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:27 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:27 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:27 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:27 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:27 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:27 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:27 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:27 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:27 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:27 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:27 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:27 - ERROR - === DEEPGRAM ERROR === Error details: <deepgram.clients.listen.v1.websocket.client.ListenWebSocketClient object at 0x787df67ae740>
+2025-03-31 14:08:27 - INFO - === DEEPGRAM CONNECTION CLOSED ===
+2025-03-31 14:08:32 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 14:08:32 - INFO - Assistant ID: 1
+2025-03-31 14:08:32 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 14:08:32 - INFO - === STARTING STREAM ===
+2025-03-31 14:08:32 - INFO - Assistant ID: 1
+2025-03-31 14:08:32 - INFO - === INITIALIZING DEEPGRAM CONNECTION ===
+2025-03-31 14:08:32 - INFO - Created Deepgram connection
+2025-03-31 14:08:32 - INFO - Event handlers registered
+2025-03-31 14:08:32 - INFO - === STARTING STREAM ===
+2025-03-31 14:08:32 - INFO - Assistant ID: 1
+2025-03-31 14:08:32 - INFO - === INITIALIZING DEEPGRAM CONNECTION ===
+2025-03-31 14:08:32 - INFO - Created Deepgram connection
+2025-03-31 14:08:32 - INFO - Event handlers registered
+2025-03-31 14:08:33 - INFO - === DEEPGRAM CONNECTION OPENED ===
+2025-03-31 14:08:33 - INFO - Assistant ID: 1
+2025-03-31 14:08:33 - INFO - Deepgram connection started successfully
+2025-03-31 14:08:33 - INFO - Connection confirmed as open
+2025-03-31 14:08:33 - INFO - Stream initialized successfully
+2025-03-31 14:08:33 - INFO - === DEEPGRAM CONNECTION OPENED ===
+2025-03-31 14:08:33 - INFO - Assistant ID: 1
+2025-03-31 14:08:33 - ERROR - Failed to start Deepgram connection
+2025-03-31 14:08:33 - ERROR - Failed to start stream - connection initialization failed
+2025-03-31 14:08:33 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:33 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:33 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:33 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:33 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:33 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:33 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:33 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:33 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:33 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:33 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:33 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:33 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:33 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:34 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:34 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:34 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:34 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:34 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:34 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:34 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:34 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:34 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:34 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:34 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:34 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:34 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:34 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:34 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:34 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:34 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:34 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:34 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:34 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:34 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:34 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:34 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:34 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:34 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:34 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:34 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:34 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:34 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:34 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:34 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:34 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:34 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:34 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:34 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:34 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:34 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:34 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:34 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:34 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:34 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:34 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:34 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:34 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:34 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:34 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:35 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:35 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:35 - INFO - === DEEPGRAM TRANSCRIPT RECEIVED ===
+2025-03-31 14:08:35 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:35 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:35 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:35 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:35 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:35 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:35 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:35 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:35 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:35 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:35 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:35 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:35 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:35 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:35 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:35 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:35 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:35 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:35 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:35 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:35 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:35 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:35 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:35 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:35 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:35 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:35 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:35 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:35 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:35 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:35 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:35 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:35 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:35 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:35 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:35 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:35 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:35 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:35 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:35 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:35 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:35 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:35 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:35 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:35 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:35 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:36 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:36 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:36 - INFO - === DEEPGRAM TRANSCRIPT RECEIVED ===
+2025-03-31 14:08:36 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:36 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:36 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:36 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:36 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:36 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:36 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:36 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:36 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:36 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:36 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:36 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:36 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:36 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:36 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:36 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:36 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:36 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:36 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:36 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:36 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:36 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:36 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:36 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:36 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:36 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:36 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:36 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:36 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:36 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:36 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:36 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:36 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:36 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:36 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:36 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:36 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:36 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:36 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:36 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:36 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:36 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:36 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:36 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:37 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:37 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:37 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:37 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:37 - INFO - === DEEPGRAM TRANSCRIPT RECEIVED ===
+2025-03-31 14:08:37 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:37 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:37 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:37 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:37 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:37 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:37 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:37 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:37 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:37 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:37 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:37 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:37 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:37 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:37 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:37 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:37 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:37 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:37 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:37 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:37 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:37 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:37 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:37 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:37 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:37 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:37 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:37 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:37 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:37 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:37 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:37 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:37 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:37 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:37 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:37 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:37 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:37 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:37 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:37 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:37 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:37 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:37 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:37 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:38 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:38 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:38 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:38 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:38 - INFO - === DEEPGRAM TRANSCRIPT RECEIVED ===
+2025-03-31 14:08:38 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:38 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:38 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:38 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:38 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:38 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:38 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:38 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:38 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:38 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:38 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:38 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:38 - INFO - === DEEPGRAM TRANSCRIPT RECEIVED ===
+2025-03-31 14:08:38 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:38 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:38 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:38 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:38 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:38 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:38 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:38 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:38 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:38 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:38 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:38 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:38 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:38 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:38 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:38 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:38 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:38 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:38 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:38 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:38 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:38 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:38 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:38 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:38 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:38 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:38 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:38 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:38 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:38 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:39 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:39 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:39 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:39 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:39 - INFO - === DEEPGRAM TRANSCRIPT RECEIVED ===
+2025-03-31 14:08:39 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:39 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:39 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:39 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:39 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:39 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:39 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:39 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:39 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:39 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:39 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:39 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:39 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:39 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:39 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:39 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:39 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:39 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:39 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:39 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:39 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:39 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:39 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:39 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:39 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:39 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:39 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:39 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:39 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:39 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:39 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:39 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:39 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:39 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:39 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:39 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:39 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:39 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:39 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:39 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:39 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:39 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:40 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:40 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:40 - INFO - === DEEPGRAM TRANSCRIPT RECEIVED ===
+2025-03-31 14:08:40 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:40 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:40 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:40 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:40 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:40 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:40 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:40 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:40 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:40 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:40 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:40 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:40 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:40 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:40 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:40 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:40 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:40 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:40 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:40 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:40 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:40 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:40 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:40 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:40 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:40 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:40 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:40 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:40 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:40 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:40 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:40 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:40 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:40 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:40 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:40 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:40 - INFO - === DEEPGRAM TRANSCRIPT RECEIVED ===
+2025-03-31 14:08:40 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:40 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:40 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:40 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:40 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:40 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:40 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:40 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:41 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:41 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:41 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:41 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:41 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:41 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:41 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:41 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:41 - INFO - === DEEPGRAM TRANSCRIPT RECEIVED ===
+2025-03-31 14:08:41 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:41 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:41 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:41 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:41 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:41 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:41 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:41 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:41 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:41 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:41 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:41 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:41 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:41 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:41 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:41 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:41 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:41 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:41 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:41 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:41 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:41 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:41 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:41 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:41 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:41 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:41 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:41 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:41 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:41 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:41 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:41 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:41 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:41 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:41 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:41 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:41 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:41 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:42 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:42 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:42 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:42 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:42 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:42 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:42 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:42 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:42 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:42 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:42 - INFO - === DEEPGRAM TRANSCRIPT RECEIVED ===
+2025-03-31 14:08:42 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:42 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:42 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:42 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:42 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:42 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:42 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:42 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:42 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:42 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:42 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:42 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:42 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:42 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:42 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:42 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:42 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:42 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:42 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:42 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:42 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:42 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:42 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:42 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:42 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:42 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:42 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:42 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:42 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:42 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:42 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:42 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:42 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:42 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:42 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:42 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:42 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:42 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:43 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:43 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:43 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:43 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:43 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:43 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:43 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:43 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:43 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:43 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:43 - INFO - === DEEPGRAM TRANSCRIPT RECEIVED ===
+2025-03-31 14:08:43 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:43 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:43 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:43 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:43 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:43 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:43 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:43 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:43 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:43 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:43 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:43 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:43 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:43 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:43 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:43 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:43 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:43 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:43 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:43 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:43 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:43 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:43 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:43 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:43 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:43 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:43 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:43 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:43 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:43 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:43 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:43 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:43 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:43 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:43 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:43 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:44 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:44 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:44 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:44 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:44 - INFO - Audio chunk length: 1366 bytes
+2025-03-31 14:08:44 - INFO - Sent 1366 bytes to Deepgram
+2025-03-31 14:08:44 - INFO - === DEEPGRAM TRANSCRIPT RECEIVED ===
+2025-03-31 14:08:44 - INFO - About to emit transcript event: text='Capito?', final=True
+2025-03-31 14:08:44 - INFO - Reset transcript parts after final message
+2025-03-31 14:08:44 - INFO - Emitted transcript event: 'Capito?', Final: True
+2025-03-31 14:08:56 - ERROR - === DEEPGRAM ERROR === Error details: <deepgram.clients.listen.v1.websocket.client.ListenWebSocketClient object at 0x787df6a09120>
+2025-03-31 14:08:56 - INFO - === DEEPGRAM CONNECTION CLOSED ===
+2025-03-31 14:09:14 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 14:09:14 - INFO - Assistant ID: 1
+2025-03-31 14:09:14 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 14:16:21 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 14:16:21 - INFO - Assistant ID: 1
+2025-03-31 14:16:21 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 14:16:31 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 14:16:31 - INFO - Assistant ID: 1
+2025-03-31 14:16:31 - INFO - Using Deepgram API key starting with: c313...
+2025-03-31 14:17:07 - INFO - === INITIALIZING SPEECH TO TEXT ===
+2025-03-31 14:17:07 - INFO - Assistant ID: 1
+2025-03-31 14:17:07 - INFO - Using Deepgram API key starting with: c313...
