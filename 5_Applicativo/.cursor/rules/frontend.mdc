@@ -1,6 +1,0 @@
----
-description: rules about how to write vue and typescript
-globs: *.ts, *.vue
----
-
-Be sure to respect types and to make the frontend run build without errors.

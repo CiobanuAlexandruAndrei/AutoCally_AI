@@ -1,5 +1,0 @@
----
-description: Rules about HTTPS in flask
-globs: *.py
----
-Do not change logic of https in my python project
